@@ -15,4 +15,10 @@ if (day == 5 ) WeekDay = "Friday";
 if (day == 6 ) WeekDay = "Saturday";
 if (day == 7 ) WeekDay = "Sunday";
 
+if ((day > 7) || (day < 1))
+{
+    Console.WriteLine("Day of the week is not found, please enter a valid day");
+    return;
+}
+
 Console.WriteLine(WeekDay);
