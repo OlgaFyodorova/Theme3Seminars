@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\bin\Debug\net6.0\Seminar2_Int16.exe
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\bin\Debug\net6.0\Seminar2_Int16.deps.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\bin\Debug\net6.0\Seminar2_Int16.runtimeconfig.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\bin\Debug\net6.0\Seminar2_Int16.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\bin\Debug\net6.0\Seminar2_Int16.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\refint\Seminar2_Int16.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\Seminar2_Int16.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar2_Int16\obj\Debug\net6.0\ref\Seminar2_Int16.dll

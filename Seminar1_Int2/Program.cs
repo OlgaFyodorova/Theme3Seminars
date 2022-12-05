@@ -10,6 +10,6 @@ Console.Write("Enter number2 : ");
 string s_num2 = Console.ReadLine();
 int num2 = Convert.ToInt32(s_num2);
 if (num1 > num2)
-    Console.WriteLine ("Number1 is greater");
+    Console.WriteLine ("Number1 is greater, Number2 is smaller");
 else
-    Console.WriteLine ("Number2 is greater");
+    Console.WriteLine ("Number2 is greater, Number1 is smaller");
