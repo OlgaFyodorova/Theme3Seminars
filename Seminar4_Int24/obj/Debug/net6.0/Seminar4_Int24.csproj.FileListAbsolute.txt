@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\bin\Debug\net6.0\Seminar4_Int24.exe
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\bin\Debug\net6.0\Seminar4_Int24.deps.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\bin\Debug\net6.0\Seminar4_Int24.runtimeconfig.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\bin\Debug\net6.0\Seminar4_Int24.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\bin\Debug\net6.0\Seminar4_Int24.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\refint\Seminar4_Int24.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\Seminar4_Int24.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar4_Int24\obj\Debug\net6.0\ref\Seminar4_Int24.dll
