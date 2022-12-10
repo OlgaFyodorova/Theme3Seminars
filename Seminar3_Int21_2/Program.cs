@@ -12,7 +12,6 @@ int z2 = SetNumber("z2");
 double result = DistanceBetween3DPoints(x1, x2, y1, y2, z1, z2);
 
 System.Console.WriteLine($"result {result}");
-
 int SetNumber(string numberName)
 {
     Console.Write($"Enter number {numberName}: ");

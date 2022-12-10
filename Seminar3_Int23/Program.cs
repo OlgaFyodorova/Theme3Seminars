@@ -15,6 +15,7 @@ void Cube(int[] cube)
     i++;
   }
 }
+
 void PrintArr(int[] coll){
   int i = coll.Length;
   int index = 0;
@@ -24,6 +25,7 @@ void PrintArr(int[] coll){
     index++;
   }
 } 
+
 int[] arr = new int[cube+1];
 Cube(arr);
 PrintArr(arr);
