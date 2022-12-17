@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\bin\Debug\net6.0\Seminar7_Int48.exe
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\bin\Debug\net6.0\Seminar7_Int48.deps.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\bin\Debug\net6.0\Seminar7_Int48.runtimeconfig.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\bin\Debug\net6.0\Seminar7_Int48.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\bin\Debug\net6.0\Seminar7_Int48.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\refint\Seminar7_Int48.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\Seminar7_Int48.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar7_Int48\obj\Debug\net6.0\ref\Seminar7_Int48.dll
