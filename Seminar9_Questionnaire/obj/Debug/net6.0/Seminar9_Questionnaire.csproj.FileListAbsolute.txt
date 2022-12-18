@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\bin\Debug\net6.0\Seminar9_Questionnaire.exe
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\bin\Debug\net6.0\Seminar9_Questionnaire.deps.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\bin\Debug\net6.0\Seminar9_Questionnaire.runtimeconfig.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\bin\Debug\net6.0\Seminar9_Questionnaire.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\bin\Debug\net6.0\Seminar9_Questionnaire.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\refint\Seminar9_Questionnaire.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\Seminar9_Questionnaire.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Questionnaire\obj\Debug\net6.0\ref\Seminar9_Questionnaire.dll
