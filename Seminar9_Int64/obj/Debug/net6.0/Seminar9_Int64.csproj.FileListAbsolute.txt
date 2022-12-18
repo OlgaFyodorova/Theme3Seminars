@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\bin\Debug\net6.0\Seminar9_Int64.exe
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\bin\Debug\net6.0\Seminar9_Int64.deps.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\bin\Debug\net6.0\Seminar9_Int64.runtimeconfig.json
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\bin\Debug\net6.0\Seminar9_Int64.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\bin\Debug\net6.0\Seminar9_Int64.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\refint\Seminar9_Int64.dll
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.pdb
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\Seminar9_Int64.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\GB\Seminars\Seminar9_Int64\obj\Debug\net6.0\ref\Seminar9_Int64.dll
